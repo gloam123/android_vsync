@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestVSync</string>
+    <string name="ids_test_start">Test Start</string>
+</resources>
